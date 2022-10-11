@@ -1,0 +1,4 @@
+﻿  CPP_if_or_for.cpp
+C:\Users\Kang Jae Wook\Desktop\C++\C--Study\Cpp\Cpp1_10\CPP_if_or_for.cpp(36,13): warning C4129: '[': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+C:\Users\Kang Jae Wook\Desktop\C++\C--Study\Cpp\Cpp1_10\CPP_if_or_for.cpp(36,38): warning C4129: ']': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+  Cpp1_10.vcxproj -> C:\Users\Kang Jae Wook\Desktop\C++\C--Study\Cpp\x64\Debug\Cpp2_1.exe
